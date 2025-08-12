@@ -1,6 +1,6 @@
 const tap = require('tap');
 const supertest = require('supertest');
-const app = require('../app'); // Ensure app.js exports only `app`, not listen()
+const app = require('../app');
 const server = supertest(app);
 
 let organizerToken = '';
