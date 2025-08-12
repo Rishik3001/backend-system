@@ -10,8 +10,8 @@ This is a simple RESTful API built with Node.js and Express.js that allows you t
 
 1. Clone the repository or download the project folder:
 
-   git clone https://github.com/airtribe-projects/task-manager-api-Rishik3001.git
-   cd task-manager-api-Rishik3001
+   git clone https://github.com/Rishik3001/backend-system.git
+   cd backend-system
 
 2. Install dependencies:
 
