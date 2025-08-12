@@ -1,0 +1,24 @@
+{
+  "name": "backend-system",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^7.0.5",
+    "tap": "^21.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
+  }
+}
